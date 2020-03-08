@@ -1,0 +1,1 @@
+This project is to scrape lbma gold price in USD from a table daily. 
